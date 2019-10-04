@@ -5,6 +5,13 @@
 基于[postcss-pxtorem](https://github.com/NervJS/taro/tree/master/packages/postcss-pxtransform)
 
 ## 安装
+
+```bash
+npm install --save-dev gulp gulp-postcss postcss-pxtransform
+```
+
+或单独下载gulpfile.js 安装依赖
+
 ```bash
 npm install --save-dev gulp gulp-postcss postcss-pxtransform
 ```
