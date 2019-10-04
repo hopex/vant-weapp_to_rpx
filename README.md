@@ -1,7 +1,7 @@
 # vant-weapp_to_rpx
 
 转换vant-weapp的样式文件中px为rpx
-
+基于[postcss-pxtorem](https://github.com/NervJS/taro/tree/master/packages/postcss-pxtransform)
 
 ## 安装
 ```bash
@@ -15,4 +15,3 @@ npm install --save-dev gulp gulp-postcss postcss-pxtransform
 gulp wxss
 ```
 执行结束后再把dist目录下vant-weapp文件夹覆盖到项目下miniprogram_npm中
-
