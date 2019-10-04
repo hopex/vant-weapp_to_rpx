@@ -7,7 +7,7 @@
 ## 安装
 
 ```bash
-npm install --save-dev gulp gulp-postcss postcss-pxtransform
+npm install
 ```
 
 或单独下载gulpfile.js 安装依赖
