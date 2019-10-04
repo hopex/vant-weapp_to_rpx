@@ -1,6 +1,7 @@
 # vant-weapp_to_rpx
 
 转换vant-weapp的样式文件中px为rpx
+
 基于[postcss-pxtorem](https://github.com/NervJS/taro/tree/master/packages/postcss-pxtransform)
 
 ## 安装
