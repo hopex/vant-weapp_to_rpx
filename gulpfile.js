@@ -11,7 +11,7 @@ exports.wxss = () => {
 		designWidth: 750,
 		//转换比例 覆盖插件默认比例
 		deviceRatio:{
-			'750':0.5
+			'750':2
 		}
 	}
     let processors = [
